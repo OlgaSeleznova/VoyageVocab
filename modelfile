@@ -1,0 +1,4 @@
+FROM mistral
+
+PARAMETER tempreture  0.5
+
