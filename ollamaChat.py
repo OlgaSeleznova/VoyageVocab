@@ -11,9 +11,8 @@ app = Flask(__name__)
 def ollm():
     if request.method == 'POST':
         llm = Ollama(model="llama2:13b-chat")
-        #query = request.args.get('query')
-        #print(query)
         input = json.loads(request.data)
-        answer = llm.invoke(f"I'm travelling to {input['country']}. Which phrases should I learn to {input['task']}?")
+        answer = llm.invoke(f"You are a foreign language tutor. I'm travelling to {input['country']}. 
+                            Which {input["phrases_num"]} phrases should I learn to {input['task']}?")
         return answer
     
