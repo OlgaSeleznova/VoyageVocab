@@ -6,6 +6,8 @@ from flask import Flask, request, jsonify
 from langchain_core.prompts import ChatPromptTemplate
 import json
 
+#  TOO LONG AND BUGGY 
+
 app = Flask(__name__)
 @app.route('/chain', methods=['POST'])
 def ollm():

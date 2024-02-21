@@ -3,7 +3,7 @@ import gradio as gr
 
 def main(country, task, number):
     llm = Ollama(model="mistral")
-    context = "You are a helpful assistant. You give enumerated list of phrases. Your answer is strict. You give only phrases in foreign language and an english translation in brackets. Numerals are not included in the query."
+    context = "You are a helpful assistant. You give enumerated list of phrases. Your answer is strictly. You give only phrases in foreign language and an english translation in brackets. Numerals are not included in the query."
     query = f"I'm travelling to {country}. Which {number} most popular phrases should I learn to {task}?"
     phrases = llm.invoke(context+query)    
     return phrases

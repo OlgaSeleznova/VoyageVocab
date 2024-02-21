@@ -5,6 +5,7 @@ import argparse
 from flask import Flask, request, jsonify
 from langchain_core.prompts import ChatPromptTemplate
 
+# NOT WORKING !!
 
 app = Flask(__name__)
 @app.route('/chain', methods=['POST'])
