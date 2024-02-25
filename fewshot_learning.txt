@@ -1,0 +1,18 @@
+1. Voglio acquistare una vestita. [English: I want to buy a dress.]
+2. Questo abito mi va bene? [English: Does this dress suit me?]
+3. Quanto costa questa vestita? [English: How much does this dress cost?]
+4. Potrei provare quella vestita, per favore? [English: Can I try on that dress, please?]
+5. Io preferirei una vestita con stoffa. [English: I prefer a dress made of fabric.]
+6. Questa vestita è troppo grande/piccola per me. [English: This dress is too big/small for me.]
+7. Posso provare un paio di calze/scarpe con questa vestita? [English: Can I try on some tights/shoes with this dress?]",,,2024-02-25 15:02:08.938751
+/n
+1. Ein Museum der Schönen Künste suche ich. [English: I am looking for a museum of fine arts.]
+2. Können Sie mir das nahegelegene Museum der Schönen Künste empfehlen? [English: Can you recommend the nearby museum of fine arts to me?]
+3. Wo befindet sich das bekannteste Museum der Schönen Künste in der Stadt? [English: Where is the most famous museum of fine arts in the city?]
+4. Gibt es ein kostenloses Museumskarte, um in alle Museen der Schönen Künste zu gelangen? [English: Is there a museum pass that allows entry to all museums of fine arts?]
+5. Welche Ausstellungen finden sich aktuell im Museum der Schönen Künste statt? [English: What exhibitions are currently taking place at the museum of fine arts?]
+/n
+1. Je veux commander un déjeuner complet, s'il vous plaît. [English: I would like to order a full meal, please.]
+2. Je vais préférer un menu végétarien, merci. [English: I prefer a vegetarian menu, thank you.]
+3. Quel est votre recommendation pour un plat principal délicieux? [English: What is your recommendation for a delicious main course?]
+4. Je suis intoléré à la lait, s'il vous plaît préparer mon repas sans. [English: I am intolerant to milk, please prepare my meal without it.]
