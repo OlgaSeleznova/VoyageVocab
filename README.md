@@ -12,10 +12,10 @@ Create a new environment (I prefer conda):
 
 ### Ollama
 1. Download Ollama via this link: https://ollama.com/download/mac
-2. Install langchain-community: 
-    `conda install langchain -c conda-forge` or `pip install langchain`
-    and then 
-    `pip install langchain-community`
+2. Install langchain-community:   
+    `conda install langchain -c conda-forge` or `pip install langchain`   
+    and then    
+    `pip install langchain-community`   
 3. Download a model, in this case mistral: `ollama run mistral`
 The full list of available models is here: https://ollama.com/library
 To check which models are available, run `ollama list`
