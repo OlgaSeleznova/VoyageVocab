@@ -68,7 +68,7 @@ def main():
                 audio = gr.Audio(sources=["microphone"], label="Record your voice", type="filepath", max_length=10) 
         # create a row with two blocks
         with gr.Row():
-            country = gr.Radio(["France", "Germany", "Italy"], label="Location", info="Where are you travelling?")
+            country = gr.Radio(["France", "Germany", "Italy", "Spain"], label="Location", info="Where are you travelling?")
             num = gr.Slider(0, 10, value=5, step=1, info="How many phrases?", label="Number of phrases")    
         #create a row with two buttons
         with gr.Row():

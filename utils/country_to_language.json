@@ -7,5 +7,7 @@
     "United Kingdom":"english",
     "United States":"english",
     "Canada":"english",
-    "Australia":"english"
+    "Australia":"english", 
+    "Swithzerland":"german",
+    "Russia":"russian"
 }
