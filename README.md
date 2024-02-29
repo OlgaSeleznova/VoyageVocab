@@ -23,7 +23,7 @@ To check which models are available, run `ollama list`
 Install Gradio:
 `pip install gradio`
 
-### Other
+### Whisper
 Install whisper from GitHub:
 `pip install git+https://github.com/openai/whisper.git`
 
