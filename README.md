@@ -3,7 +3,7 @@
 ## Introduction
 In this pet project I combined my main passions: AI, languages and traveling. 
 While plannning a trip, I like to learn a few phrases to feel more comfortable while interracting with locals. 
-The tool was built on top of two frameworks: Ollama for content generation and Gradio to build simple and interactive UI.  
+The tool was built using two frameworks: Ollama for content generation and Gradio to build simple and interactive UI.  
 
 ## Installation
 Create a new environment (I prefer conda): 
@@ -20,11 +20,11 @@ Create a new environment (I prefer conda):
 The full list of available models is here: https://ollama.com/library
 To check which models are available, run `ollama list`
 ### Gradio 
-install Gradio
+Install Gradio:
 `pip install gradio`
 
 ### Other
-install whisper for git:
+Install whisper from GitHub:
 `pip install git+https://github.com/openai/whisper.git`
 
 ## Usage
