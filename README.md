@@ -28,11 +28,12 @@ install whisper for git:
 `pip install git+https://github.com/openai/whisper.git`
 
 ## Usage
-To use this app, run in terminal `python VoyageVocab.py` 
-Then follow the link to local URL, provided in the terminal. It's normally http://127.0.0.1:7860.
-First, you have to decide, what is the task. Do youu want to know how to order some food in the restaurant, buy a ticket or ask for direction. For this, the app suggests you to *enter the text* or *record your voice*. Please, don't try to do both, because the app will choose the text. 
-Second, choose the destination by clicking the relevant box (it's multiple choice and skipping this step will result in the error). 
-Third, pick a number of phrases from 1 to 10. 
-Finally, press the button "Generate" and check the answer. 
+To use this app, run in terminal `python VoyageVocab.py`.      
+Then follow the link to local URL, provided in the terminal. It's normally http://127.0.0.1:7860.  
+First, you have to decide, what is the task. Do youu want to know how to order some food in the restaurant, buy a ticket or ask for direction.   
+There are two options: *enter the text* or *record your voice*. Please, don't try to do both, because the app will choose the text.   
+Second, choose the destination by clicking the relevant box (it's multiple choice and skipping this step will result in the error).   
+Third, pick a number of phrases from 1 to 10.  
+Finally, press the button "Generate" and check the answer.   
 
 
