@@ -30,8 +30,8 @@ Install whisper from GitHub:
 ## Usage
 To use this app, run in terminal `python VoyageVocab.py`.      
 Then follow the link to local URL, provided in the terminal. It's normally http://127.0.0.1:7860.  
-1. Decide, what is the task. Do youu want to know how to order some food in the restaurant, buy a ticket or ask for direction.   
-There are two options: *enter the text* or *record your voice*. Please, don't try to do both, because the app will choose the text.   
+1. Decide, what is the task. Do you want to know how to order some food in the restaurant, buy a ticket or ask for directions.   
+There are two options: *enter the text* or *record the voice*. In case of both text and audio entered, text will be chosen.   
 2. Choose the destination by clicking the relevant box (it's multiple choice and skipping this step will result in the error).   
 3. Pick a number of phrases from 1 to 10.  
 4. Finally, press the button "Generate" and check the answer.   
