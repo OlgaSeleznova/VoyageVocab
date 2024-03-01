@@ -2,7 +2,7 @@
 
 ## Introduction
 In this project, I combined my main passions: AI, languages and travelling. 
-While planning a trip, I like to learn a few phrases to feel more comfortable while interacting with locals. 
+I built an application that receives textual or audio input to generate phases in foreign languages for specific tasks (ordering food/ buying a ticket, etc.  
 The tool was built using the following technologies: Ollama for content generation, Whisper for speech recognition and Gradio to build simple and interactive UI.
 
 ## Installation
