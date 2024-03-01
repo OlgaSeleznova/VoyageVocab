@@ -1,9 +1,9 @@
 # VoyageVocab. Language Learning assistant for travellers
 
 ## Introduction
-In this pet project I combined my main passions: AI, languages and traveling. 
-While plannning a trip, I like to learn a few phrases to feel more comfortable while interracting with locals. 
-The tool was built using the following technologies: Ollama for content generation, Whisper for speech recognition and Gradio to build simple and interactive UI.  
+In this project, I combined my main passions: AI, languages and travelling. 
+While planning a trip, I like to learn a few phrases to feel more comfortable while interacting with locals. 
+The tool was built using the following technologies: Ollama for content generation, Whisper for speech recognition and Gradio to build simple and interactive UI.
 
 ## Installation
 Create a new environment (I prefer conda): 
