@@ -1,4 +1,4 @@
-# VoyageVocab. Language Learning assistant for travel lovers
+# VoyageVocab. Language Learning assistant for travellers
 
 ## Introduction
 In this pet project I combined my main passions: AI, languages and traveling. 
