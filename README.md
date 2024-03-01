@@ -3,7 +3,7 @@
 ## Introduction
 In this pet project I combined my main passions: AI, languages and traveling. 
 While plannning a trip, I like to learn a few phrases to feel more comfortable while interracting with locals. 
-The tool was built using two frameworks: Ollama for content generation and Gradio to build simple and interactive UI.  
+The tool was built using two frameworks: Ollama for content generation, Whisper for speech recognition and Gradio to build simple and interactive UI.  
 
 ## Installation
 Create a new environment (I prefer conda): 
